@@ -1,0 +1,22 @@
+{
+  "name": "is-banana",
+  "version": "1.0.0",
+  "description": "is-banana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sillyangel/is-banana.git"
+  },
+  "keywords": [
+    "is"
+  ],
+  "author": "sillyangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sillyangel/is-banana/issues"
+  },
+  "homepage": "https://github.com/sillyangel/is-banana#readme"
+}
